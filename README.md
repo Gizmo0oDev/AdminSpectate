@@ -2,8 +2,8 @@
 A plugin that allows you to spectate players professionally.
 
 # Commands
-![Command Image 1](https://user-images.githubusercontent.com/106276172/170443717-28e43584-da7b-4b65-bc8f-f3addcee7a94.png) - Spectates a player. (Permission: adminspectate.spectate) \
-![Command Image 2](https://user-images.githubusercontent.com/106276172/170443735-ffcdeb21-b47f-4aef-b2f7-66cc58ba90e5.png) - Stops spectating a player. (Permission: adminspectate.unspectate)
+![Command Image 1](https://user-images.githubusercontent.com/106276172/170443717-28e43584-da7b-4b65-bc8f-f3addcee7a94.png) Spectates a player (Permission: adminspectate.spectate) \
+![Command Image 2](https://user-images.githubusercontent.com/106276172/170443735-ffcdeb21-b47f-4aef-b2f7-66cc58ba90e5.png) Stops spectating a player (Permission: adminspectate.unspectate)
 
 # Installation Guide
 

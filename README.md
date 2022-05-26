@@ -2,8 +2,8 @@
 A plugin that allows you to spectate players professionally.
 
 # Commands
-/spectate [player]: Spectates a player. \
-/unspectate [player]: Stops spectating a player.
+/spectate [player]: Spectates a player. (Permission: adminspectate.spectate) \
+/unspectate [player]: Stops spectating a player. (Permission: adminspectate.unspectate)
 
 # Installation Guide
 

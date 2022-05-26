@@ -9,6 +9,6 @@ Once you have clicked the button, it should download as a jar file (like all plu
 ![Tutorial Image 3](https://user-images.githubusercontent.com/106276172/170438875-aae0259f-221c-49f9-9750-5de4b4858d84.png)
 
 Once it has finished downloading, put it into your "plugins" folder in your Minecraft server.
-![Tutorial Image 4](https://user-images.githubusercontent.com/106276172/170439007-600ea79d-8a44-4b26-a06c-a3ee28c0ad0b.png)
+![Tutorial Image 4](https://user-images.githubusercontent.com/106276172/170440314-77e8e214-0b5e-4a38-92e6-da91aec16391.png)
 Then restart your server and if you see this message in the console the plugin has been successfully installed!
 ![Tutorial Image 5](https://user-images.githubusercontent.com/106276172/170440107-eb2a4320-ef94-44ff-8a51-c2cfa18ec626.png)

@@ -1,5 +1,5 @@
 # ![AdminSpectate 32px](https://user-images.githubusercontent.com/106276172/170436339-1b2d3955-e938-4220-88ef-b4a113fffbda.png) AdminSpectate
-A plugin that allows you to spectate players professionally.
+This plugin allows you to spectate players in the best way possible. When spectating a player, you are hidden from the player and the player thinks you have disconnected from the server wich allows you to do anything you want for example check if the player is hacking.
 
 # Commands
 ![Command Image 1](https://user-images.githubusercontent.com/106276172/170443717-28e43584-da7b-4b65-bc8f-f3addcee7a94.png) Spectates a player (Permission: adminspectate.spectate) \

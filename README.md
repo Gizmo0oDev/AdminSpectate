@@ -7,6 +7,7 @@ And then click on the "Download" button.
 ![Tutorial Image 2](https://user-images.githubusercontent.com/106276172/170437699-02119002-3506-4fb8-8b97-e2ca304c082f.png)
 And it should download.
 ![Tutorial Image 3](https://user-images.githubusercontent.com/106276172/170438875-aae0259f-221c-49f9-9750-5de4b4858d84.png)
+
 Once it has finished downloading, put it into your "plugins" folder in your Minecraft server.
 ![Tutorial Image 4](https://user-images.githubusercontent.com/106276172/170439007-600ea79d-8a44-4b26-a06c-a3ee28c0ad0b.png)
 

@@ -2,7 +2,7 @@
 A plugin that allows you to spectate players professionally.
 
 To install, click on the jar file above,
-![image](https://user-images.githubusercontent.com/106276172/170436887-92c00eb9-5a2b-47d1-9623-d5f7f826e282.png)
+![Tutorial Image 1](https://user-images.githubusercontent.com/106276172/170437684-3aa43ee8-cfc6-4ccb-a3b1-e4ab3a221332.png)
 And then click on the "Download" button.
-![image](https://user-images.githubusercontent.com/106276172/170436961-c0595135-181e-4975-ba6c-e31493dc69b5.png)
+![Tutorial Image 2](https://user-images.githubusercontent.com/106276172/170437699-02119002-3506-4fb8-8b97-e2ca304c082f.png)
 

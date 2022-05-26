@@ -6,7 +6,6 @@ This plugin allows you to spectate players in the best way possible. When specta
 ![Command Image 2](https://user-images.githubusercontent.com/106276172/170443735-ffcdeb21-b47f-4aef-b2f7-66cc58ba90e5.png) Stops spectating a player (Permission: adminspectate.unspectate)
 
 # Installation Guide
-
 To install, click on the jar file above,
 ![Tutorial Image 1](https://user-images.githubusercontent.com/106276172/170437684-3aa43ee8-cfc6-4ccb-a3b1-e4ab3a221332.png)
 
@@ -21,3 +20,6 @@ Once it has finished downloading, put it into your "plugins" folder in your Mine
 
 Then restart/start your server and if you see this message in the console the plugin has been successfully installed!
 ![Tutorial Image 5](https://user-images.githubusercontent.com/106276172/170440107-eb2a4320-ef94-44ff-8a51-c2cfa18ec626.png)
+
+# Support
+For support click here: https://discord.gg/gdZGKq7RkG

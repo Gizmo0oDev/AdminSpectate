@@ -22,4 +22,4 @@ Then restart/start your server and if you see this message in the console the pl
 ![Tutorial Image 5](https://user-images.githubusercontent.com/106276172/170440107-eb2a4320-ef94-44ff-8a51-c2cfa18ec626.png)
 
 # Support
-For support join the Discord server: https://discord.gg/gdZGKq7RkG
+For support join the Discord server: https://discord.gg/KWwB8uEr3E
